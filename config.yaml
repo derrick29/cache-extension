@@ -1,0 +1,4 @@
+SecretManagers:
+    - secrets:
+      - secret_now
+  
